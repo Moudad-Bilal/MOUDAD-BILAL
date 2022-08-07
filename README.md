@@ -8,7 +8,7 @@
 and external reports, creating executive-level dashboards, and presenting information to help executives and
 others understand the operational impact of the data.
 
-🎓 &nbsp; Studying Computer Science and Mathematics at The national school of applied sciences in Al-Hoceima Morocco.\
+🎓 &nbsp; state engineer in computer science option Business Intelligence at The national school of applied sciences in Al-Hoceima Morocco.\
 🌱 &nbsp;I'm on track for learning more about Business Intelligence,Artificial Intelligence,Data Science, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and video Editing.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
