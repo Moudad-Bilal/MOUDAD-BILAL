@@ -12,7 +12,7 @@ others understand the operational impact of the data.
 🌱 &nbsp;I'm on track for learning more about Business Intelligence,Artificial Intelligence,Data Science, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and video Editing.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at moudadbilal@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can contact me an email at moudadbilal@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
