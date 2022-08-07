@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I just love the whole process of gathering and interpreting data from a variety of sources to help theorganization improve the quality of sales and enhance the customer experience. I'd love to automate internal
+💡 &nbsp;I just love the whole process of gathering and interpreting data from a variety of sources to help the organization improve the quality of sales and enhance the customer experience. I'd love to automate internal
 and external reports, creating executive-level dashboards, and presenting information to help executives and
 others understand the operational impact of the data.
 
