@@ -4,8 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I just love the whole process of gathering and interpreting data from a variety of sources to help the organization improve the quality of sales and enhance the customer experience. I'd love to automate internal
-and external reports, creating executive-level dashboards, and presenting information to help Stakholders understand the operational impact of the data.
+💡 &nbsp;I love the whole process of collecting and interpreting data from various sources to help the organization improve sales quality and improve customer experience. I would like to automate the internal and external reporting, creating executive-level dashboards and presenting insights to help stakeholders understand the operational impact of data.
 
 🎓 &nbsp; I'm a state engineer in computer science option Business Intelligence at The national school of applied sciences in Al-Hoceima Morocco.\
 🌱 &nbsp;I'm on track for learning more about Business Intelligence,Artificial Intelligence,Data Science, and Cloud Architecture.\
